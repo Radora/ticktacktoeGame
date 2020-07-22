@@ -1,0 +1,15 @@
+main {
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    grid-gap: 0px;
+}
+  
+app-square {
+    border: 1px rgb(105, 87, 204) solid;
+    height: 200px;
+}
+
+button {
+    height: 50px;
+    margin: 20px;
+}
